@@ -1,28 +1,35 @@
 ﻿using SisWebServer.Server.Common;
 using System;
+using System.Collections.Generic;
 
 namespace SisWebServer.Server.Http
 {
     public class HttpHeader
     {
-        public string Key { get; set; }
-        public string Value { get; set; }
+        public const string ContentType = "Content-Type";
+        public const string Host = "Host";
+        public const string Location = "Location";
+        public const string Cookie = "Cookie";
+        public const string SetCookie = "Set-Cookie";
 
         public HttpHeader(string key, string value)
         {
-            // validation for key == null
             CoreValidator.ThrowIfNullOrEmpty(key, nameof(key));
-
-            // validation for value == null
-            CoreValidator.ThrowIfNullOrEmpty(key, nameof(value));
+            CoreValidator.ThrowIfNullOrEmpty(value, nameof(value));
 
             this.Key = key;
             this.Value = value;
         }
 
-        public override string ToString()
+        public string Key { get; private set; }
+
+        public string Value { get; private set; }
+
+        public override string ToString() => $"{this.Key}: {this.Value}";
+
+        public static implicit operator HttpHeader(List<HttpHeader> v)
         {
-            return $"{this.Key}: {this.Value}";
+            throw new NotImplementedException();
         }
     }
 }

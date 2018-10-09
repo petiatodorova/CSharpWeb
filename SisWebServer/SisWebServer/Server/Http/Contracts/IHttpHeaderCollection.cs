@@ -4,12 +4,14 @@ using System.Text;
 
 namespace SisWebServer.Server.Http.Contracts
 {
-    public interface IHttpHeaderCollection
+    public interface IHttpHeaderCollection : IEnumerable<ICollection<HttpHeader>>
     {
         void Add(HttpHeader header);
 
+        void Add(string key, string value);
+
         bool ContainsKey(string key);
 
-        HttpHeader Get(string key);
+        ICollection<HttpHeader> Get(string key);
     }
 }
