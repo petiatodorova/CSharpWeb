@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\bin\Debug\netcoreapp2.1\AsyncAwaitExample.deps.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\bin\Debug\netcoreapp2.1\AsyncAwaitExample.runtimeconfig.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\bin\Debug\netcoreapp2.1\AsyncAwaitExample.runtimeconfig.dev.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\bin\Debug\netcoreapp2.1\AsyncAwaitExample.dll
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\bin\Debug\netcoreapp2.1\AsyncAwaitExample.pdb
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\obj\Debug\netcoreapp2.1\AsyncAwaitExample.csprojAssemblyReference.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\obj\Debug\netcoreapp2.1\AsyncAwaitExample.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\obj\Debug\netcoreapp2.1\AsyncAwaitExample.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\obj\Debug\netcoreapp2.1\AsyncAwaitExample.AssemblyInfo.cs
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\obj\Debug\netcoreapp2.1\AsyncAwaitExample.dll
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\AsyncAwaitExample\obj\Debug\netcoreapp2.1\AsyncAwaitExample.pdb

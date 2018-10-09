@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\bin\Debug\netcoreapp2.1\Threads2.deps.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\bin\Debug\netcoreapp2.1\Threads2.runtimeconfig.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\bin\Debug\netcoreapp2.1\Threads2.runtimeconfig.dev.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\bin\Debug\netcoreapp2.1\Threads2.dll
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\bin\Debug\netcoreapp2.1\Threads2.pdb
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\obj\Debug\netcoreapp2.1\Threads2.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\obj\Debug\netcoreapp2.1\Threads2.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\obj\Debug\netcoreapp2.1\Threads2.AssemblyInfo.cs
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\obj\Debug\netcoreapp2.1\Threads2.dll
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\obj\Debug\netcoreapp2.1\Threads2.pdb
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\Threads2\obj\Debug\netcoreapp2.1\Threads2.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\bin\Debug\netcoreapp2.1\EncodeDecodeOK.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\bin\Debug\netcoreapp2.1\EncodeDecodeOK.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\bin\Debug\netcoreapp2.1\EncodeDecodeOK.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\bin\Debug\netcoreapp2.1\EncodeDecodeOK.dll
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\bin\Debug\netcoreapp2.1\EncodeDecodeOK.pdb
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\obj\Debug\netcoreapp2.1\EncodeDecodeOK.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\obj\Debug\netcoreapp2.1\EncodeDecodeOK.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\obj\Debug\netcoreapp2.1\EncodeDecodeOK.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\obj\Debug\netcoreapp2.1\EncodeDecodeOK.dll
+C:\Users\John\Desktop\GitRepo\CSharpWeb\EncodingDecoding\EncodeDecodeOK\obj\Debug\netcoreapp2.1\EncodeDecodeOK.pdb

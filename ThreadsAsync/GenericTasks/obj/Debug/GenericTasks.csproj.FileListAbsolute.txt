@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\GenericTasks\bin\Debug\GenericTasks.exe.config
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\GenericTasks\bin\Debug\GenericTasks.exe
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\GenericTasks\bin\Debug\GenericTasks.pdb
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\GenericTasks\obj\Debug\GenericTasks.csprojAssemblyReference.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\GenericTasks\obj\Debug\GenericTasks.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\GenericTasks\obj\Debug\GenericTasks.exe
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\GenericTasks\obj\Debug\GenericTasks.pdb

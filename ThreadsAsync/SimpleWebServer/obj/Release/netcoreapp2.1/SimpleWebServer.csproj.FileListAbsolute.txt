@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\bin\Release\netcoreapp2.1\SimpleWebServer.deps.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\bin\Release\netcoreapp2.1\SimpleWebServer.runtimeconfig.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\bin\Release\netcoreapp2.1\SimpleWebServer.runtimeconfig.dev.json
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\bin\Release\netcoreapp2.1\SimpleWebServer.dll
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\bin\Release\netcoreapp2.1\SimpleWebServer.pdb
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\obj\Release\netcoreapp2.1\SimpleWebServer.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\obj\Release\netcoreapp2.1\SimpleWebServer.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\obj\Release\netcoreapp2.1\SimpleWebServer.AssemblyInfo.cs
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\obj\Release\netcoreapp2.1\SimpleWebServer.dll
+C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\SimpleWebServer\obj\Release\netcoreapp2.1\SimpleWebServer.pdb
