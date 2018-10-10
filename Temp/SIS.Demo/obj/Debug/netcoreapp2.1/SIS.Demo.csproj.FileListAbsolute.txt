@@ -1,0 +1,16 @@
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.deps.json
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.json
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.dev.json
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.pdb
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csprojAssemblyReference.cache
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfo.cs
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CopyComplete
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Users\John\Desktop\TempExercises\EFHomework\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.pdb
