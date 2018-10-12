@@ -50,12 +50,17 @@ namespace Collections
 
             public bool MoveNext()
             {
-                return ++this.currentIndex < books.Count;
+                this.currentIndex += 2;
+                if (currentIndex > this.books.Count)
+                {
+                    return false;
+                }
+                return true;
             }
 
             public void Reset()
             {
-                this.currentIndex = -1;
+                this.currentIndex = -2;
             }
         }
     }
