@@ -18,50 +18,68 @@ namespace Collections
             this.books.Add(book);
         }
 
+        // First variant - with "yield return"
         public IEnumerator<Book> GetEnumerator()
         {
-            return new BooksEnumerator(this.books);
+            for (int i = 0; i < this.books.Count; i++)
+            {
+                yield return this.books[i];
+            }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return new BooksEnumerator(this.books);
+            for (int i = 0; i < this.books.Count; i++)
+            {
+                yield return this.books[i];
+            }
         }
 
-        private class BooksEnumerator : IEnumerator<Book>
-        {
-            private int currentIndex;
-            private readonly List<Book> books;
+        // Second "handmade" variant
+        //IEnumerator IEnumerable.GetEnumerator()
+        //{
+        //    return new BooksEnumerator(this.books);
+        //}
 
-            public BooksEnumerator(List<Book> books)
-            {
-                this.Reset();
-                this.books = books;
-            }
+        //public IEnumerator<Book> GetEnumerator()
+        //{
+        //    return new BooksEnumerator(this.books);
+        //}
 
-            public Book Current => this.books[this.currentIndex];
+        //private class BooksEnumerator : IEnumerator<Book>
+        //{
+        //    private int currentIndex;
+        //    private readonly List<Book> books;
 
-            object IEnumerator.Current => this.Current;
+        //    public BooksEnumerator(List<Book> books)
+        //    {
+        //        this.Reset();
+        //        this.books = books;
+        //    }
 
-            public void Dispose()
-            {
+        //    public Book Current => this.books[this.currentIndex];
+
+        //    object IEnumerator.Current => this.Current;
+
+        //    public void Dispose()
+        //    {
                 
-            }
+        //    }
 
-            public bool MoveNext()
-            {
-                this.currentIndex += 2;
-                if (currentIndex > this.books.Count)
-                {
-                    return false;
-                }
-                return true;
-            }
+        //    public bool MoveNext()
+        //    {
+        //        this.currentIndex += 2;
+        //        if (currentIndex > this.books.Count)
+        //        {
+        //            return false;
+        //        }
+        //        return true;
+        //    }
 
-            public void Reset()
-            {
-                this.currentIndex = -2;
-            }
-        }
+        //    public void Reset()
+        //    {
+        //        this.currentIndex = -2;
+        //    }
+        //}
     }
 }

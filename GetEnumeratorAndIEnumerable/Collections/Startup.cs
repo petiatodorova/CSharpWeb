@@ -18,7 +18,20 @@
             {
                 Console.WriteLine($"{book.Title}");
             }
+
+            foreach (var num in GetSome())
+            {
+                Console.WriteLine($"{num}");
+            }
             
+        }
+
+        public static IEnumerable<int> GetSome()
+        {
+            for (int i = 0; i < 7; i++)
+            {
+                yield return i;
+            }
         }
     }
 }
