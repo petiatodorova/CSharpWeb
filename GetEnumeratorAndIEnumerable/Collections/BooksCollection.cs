@@ -30,7 +30,7 @@ namespace Collections
 
         private class BooksEnumerator : IEnumerator<Book>
         {
-            private int currentIndex = -1;
+            private int currentIndex;
             private readonly List<Book> books;
 
             public BooksEnumerator(List<Book> books)
