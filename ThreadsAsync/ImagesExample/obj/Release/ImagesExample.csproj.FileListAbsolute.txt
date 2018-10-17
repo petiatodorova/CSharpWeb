@@ -1,7 +1,0 @@
-C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\ImagesExample\bin\Release\ImagesExample.exe.config
-C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\ImagesExample\bin\Release\ImagesExample.exe
-C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\ImagesExample\bin\Release\ImagesExample.pdb
-C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\ImagesExample\obj\Release\ImagesExample.csprojAssemblyReference.cache
-C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\ImagesExample\obj\Release\ImagesExample.csproj.CoreCompileInputs.cache
-C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\ImagesExample\obj\Release\ImagesExample.exe
-C:\Users\John\Desktop\1-csharpweb\ThreadsExamples\ImagesExample\obj\Release\ImagesExample.pdb
